@@ -1,0 +1,95 @@
+
+.App {
+  text-align: center;
+  background-color: #98a3ad;
+}
+
+:root {
+  background-color: #98a3ad;
+}
+
+.header{
+  color: lightgoldenrodyellow;
+}
+
+
+a{
+  color: #98a3ad;
+}
+
+.bold-it{
+  font-weight: bold;
+}
+
+a:hover{
+  color: black;
+}
+
+.mt-0{
+  background-color: #98a3ad3b;
+}
+
+.App-footer{
+  color: black;
+  font-weight: bold;
+  background-color: white;
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+  text-align: initial;
+}
+
+.App-footer a{
+  color: #98a3ad;
+}
+
+.style-money-one{
+  color: green;
+}
+
+.style-money-two{
+  color: red;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@media only screen and (max-width: 975px) {
+  .smallScreens{
+    width: 50%;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
