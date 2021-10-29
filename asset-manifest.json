@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/live-stocks-api/static/css/main.89774a02.chunk.css",
+    "main.js": "/live-stocks-api/static/js/main.7eea99b0.chunk.js",
+    "main.js.map": "/live-stocks-api/static/js/main.7eea99b0.chunk.js.map",
+    "runtime-main.js": "/live-stocks-api/static/js/runtime-main.24e3a4ed.js",
+    "runtime-main.js.map": "/live-stocks-api/static/js/runtime-main.24e3a4ed.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/live-stocks-api/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.c3fff2cb.chunk.js": "/live-stocks-api/static/js/2.c3fff2cb.chunk.js",
+    "static/js/2.c3fff2cb.chunk.js.map": "/live-stocks-api/static/js/2.c3fff2cb.chunk.js.map",
+    "static/js/3.6f07048b.chunk.js": "/live-stocks-api/static/js/3.6f07048b.chunk.js",
+    "static/js/3.6f07048b.chunk.js.map": "/live-stocks-api/static/js/3.6f07048b.chunk.js.map",
+    "index.html": "/live-stocks-api/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/live-stocks-api/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.89774a02.chunk.css.map": "/live-stocks-api/static/css/main.89774a02.chunk.css.map",
+    "static/js/2.c3fff2cb.chunk.js.LICENSE.txt": "/live-stocks-api/static/js/2.c3fff2cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e3a4ed.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.c3fff2cb.chunk.js",
+    "static/css/main.89774a02.chunk.css",
+    "static/js/main.7eea99b0.chunk.js"
+  ]
+}
